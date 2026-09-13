@@ -1,6 +1,6 @@
-# Learning Log
+# Learning Notes
 
-My personal, growing record of the programming concepts I learn during my coding sessions — one log file per technology using [/register-learning](https://github.com/SwannJulien/skills) skill.
+My personal, growing record of the programming concepts I learn during my coding sessions — one notes file per technology using [/register-learning](https://github.com/SwannJulien/skills) skill.
 
 ## Description
 
@@ -12,10 +12,10 @@ Each entry is written as if for a complete beginner: what the concept is, why it
 
 | Path | Contents |
 | --- | --- |
-| [javascript/js_log.md](javascript/JS_Learning.md) | JavaScript entries |
-| [typescript/ts_log.md](typescript/TypeScript_Learning.md) | TypeScript entries |
-| [lit/lit_log.md](lit/Lit_Learning.md) | Lit / web components entries |
+| [javascript/js_notes.md](javascript/js_notes.md) | JavaScript entries |
+| [typescript/ts_notes.md](typescript/ts_notes.md) | TypeScript entries |
+| [lit/lit_notes.md](lit/lit_notes.md) | Lit / web components entries |
 | [courses/](courses/) | Raw notes taken from talks and courses (not skill-generated) |
 
 
-Every log file follows the same shape: a short intro, an `## Index` of numbered links, then `## Entries` in chronological order (oldest first).
+Every notes file follows the same shape: a short intro, an `## Index` of numbered links, then `## Entries` in chronological order (oldest first).

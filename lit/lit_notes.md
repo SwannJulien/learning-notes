@@ -1,8 +1,8 @@
-# Lit Learning Log
+# Lit Notes
 
 A running personal collection of Lit rules of thumb, good practices, and lessons learned, gathered day after day while working on real projects (but written generically so they're useful anywhere).
 
-Entries are logged chronologically (oldest first). This log will be reorganized into logical chapters once it grows large enough to need them.
+Entries are added chronologically (oldest first). These notes will be reorganized into logical chapters once they grow large enough to need them.
 
 ## Index
 
