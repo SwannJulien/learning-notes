@@ -1,6 +1,6 @@
 # Learning Notes
 
-My personal, growing record of the programming concepts I learn during my coding sessions — one notes file per technology using [/register-learning](https://github.com/SwannJulien/skills) skill.
+My personal, growing record of the programming concepts I learn during my coding sessions — one notes file per technology using [/add-note](https://github.com/SwannJulien/skills) skill.
 
 ## Description
 

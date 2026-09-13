@@ -2,7 +2,7 @@
 
 A running personal collection of JavaScript rules of thumb, good practices, and lessons learned, gathered day after day while working on real projects (but written generically so they're useful anywhere).
 
-Entries are added chronologically (oldest first). These notes will be reorganized into logical chapters once they grow large enough to need them — see the `register-learning` skill for how new entries are added.
+Entries are added chronologically (oldest first). These notes will be reorganized into logical chapters once they grow large enough to need them — see the `add-note` skill for how new entries are added.
 
 ## Index
 
