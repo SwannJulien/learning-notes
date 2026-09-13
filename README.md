@@ -1,6 +1,6 @@
 # Learning Log
 
-My personal, growing record of the programming concepts I learn during my coding sessions — one log file per technology, plus the Claude Code skill that writes into them.
+My personal, growing record of the programming concepts I learn during my coding sessions — one log file per technology using [/register-learning](https://github.com/SwannJulien/skills) skill.
 
 ## Description
 
@@ -12,9 +12,9 @@ Each entry is written as if for a complete beginner: what the concept is, why it
 
 | Path | Contents |
 | --- | --- |
-| [javascript/JS_Learning.md](javascript/JS_Learning.md) | JavaScript entries |
-| [typescript/TypeScript_Learning.md](typescript/TypeScript_Learning.md) | TypeScript entries |
-| [lit/Lit_Learning.md](lit/Lit_Learning.md) | Lit / web components entries |
+| [javascript/js_log.md](javascript/JS_Learning.md) | JavaScript entries |
+| [typescript/ts_log.md](typescript/TypeScript_Learning.md) | TypeScript entries |
+| [lit/lit_log.md](lit/Lit_Learning.md) | Lit / web components entries |
 | [courses/](courses/) | Raw notes taken from talks and courses (not skill-generated) |
 
 
